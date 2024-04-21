@@ -1,0 +1,15 @@
+ContactUsFormTest.class
+PostPreviewTest.class
+UserProfileEdit.class
+UserRegistrationByAdminTest.class
+CreatePostTest.class
+AdminLoginTest.class
+HeaderObjectsTest.class
+UserRegistrationTest.class
+Smoke.class
+LoginTest.class
+PostPageTest.class
+AdminPanelTest.class
+Edit_DeletePostTest_ByUser.class
+UserProfileEditDeleteByAdminTest.class
+BaseTest.class

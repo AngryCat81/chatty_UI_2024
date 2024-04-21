@@ -1,0 +1,12 @@
+pages\PostCreationPage.class
+pages\MyDraftsPage.class
+pages\PostPage.class
+pages\PostPreviewPage.class
+pages\Faker.class
+pages\LoginPage.class
+pages\UserProfileEditPage.class
+pages\AboutPage.class
+pages\RegistrationPage.class
+pages\HeaderPage.class
+pages\AdminPanelPage.class
+pages\ContactUsPage.class
